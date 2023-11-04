@@ -1,0 +1,12 @@
+{
+  "name": "codember-2023",
+  "version": "1.0.0",
+  "description": "Solutions of Codember 2023",
+  "main": "index.js",
+  "scripts": {
+    "challenge_01": "node CHALLENGE_01/index.js"
+  },
+  "keywords": [],
+  "author": "SrCosmicCat",
+  "license": "ISC"
+}
