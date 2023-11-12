@@ -4,7 +4,8 @@
   "description": "Solutions of Codember 2023",
   "main": "index.js",
   "scripts": {
-    "challenge_01": "node CHALLENGE_01/index.js"
+    "challenge_01": "node CHALLENGE_01/index.js",
+    "challenge_02": "node CHALLENGE_02/index.js"
   },
   "keywords": [],
   "author": "SrCosmicCat",
